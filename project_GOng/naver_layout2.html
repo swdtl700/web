@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>naver_layout</title>
+		<style>
+			div{margin:0 auto; width:1080px; border: 1px solid red;}
+			.hedder1{display:inline-block;width:1080px; height:48px; line-height:48px;}
+			#logo{width:205px; height:55px; background:url(../img/sp_search_naver.png) -6px -3px; margin:auto 15px; vertical-align: middle;}
+			.hedder2{width:1080px; height:170px;line-height:170px;}
+			#search{width:474px; height:49px; border:2px solid #03CF5D;}
+			#btn1{width:49px; height:56px; background-color:#03CF5D; vertical-align: middle;}
+			#btn2{width:30px; height:29px; background:url(../img/sp_search_naver.png) 0 -55px;}
+			
+			.nav{width:1080px; height:47px; text-decoration:none;}
+			ul{display:inline;}
+			li{display:inline-block; width:50px;}
+			
+			.menu1 a{color:#03CF5D;}
+			.menu2 a{color:#000000;}
+			.more a{color:#000;}
+		</style>
+	
+	</head>
+	<body>
+		<div class="hedder">
+		<!-- 웨일부분 -->
+			<div class="hedder1">
+				<div style="display:inline-block; width:200px;">
+					<span style="color:#03CF5D; text-align:left">NAVER</span>
+					<span style="text-align:left"><strong>Whale</strong></span>
+				</div>	
+				<div style="text-align:center; display:inline-block; width:600px;" >
+					<img src="../img/back.jpg" style="height:30px; width:30px;">
+					<span style="color:#03CF5D;"><strong>인터넷의 새로운 시작!</strong></span>
+					<span>네이버 웨일로 차원이 다른 웹서핑을 경험해보세요!</span>
+				</div>
+			</div>
+			<br><br>
+			
+		<!-- 로고, 검색창 -->	
+			<div class="hedder2">
+			
+				<form action="result.jsp">
+				<img id="logo">
+				<input type="text" name="search" id="search">
+				<!-- <form action="https://www.naver.com/" -->
+				
+				
+					<!-- <select name="selType">
+						<option value="이미지">이미지</option>
+						<option value="컨텐츠">컨텐츠</option>
+					</select> -->
+					
+					
+						<button type="submit" name="btn1" id="btn1">
+							<span id="btn2"></span>
+						</button>
+					
+				</form>
+				
+				
+			</div>
+			
+		<!-- 네비게이션 -->	
+			<div class="nav">
+				<ul class="menu1 inline">
+					<li ><a href="https://nid.naver.com/nidlogin.login?url=http%3A%2F%2Fmail.naver.com%2F">메일</a></li>
+					<li><a href="https://section.cafe.naver.com/">카페</a></li>
+					<li><a href="https://section.blog.naver.com/BlogHome.nhn?directoryNo=0&currentPage=1&groupId=0">블로그</a></li>
+					<li><a href="https://kin.naver.com/">지식IN</a></li>
+					<li><a href="https://shopping.naver.com/">쇼핑</a></li>
+					<li><a href="https://nid.naver.com/nidlogin.login?svctype=1&url=https%3A%2F%2Forder.pay.naver.com%2Fhome">Pay</a></li>
+					<li><a href="https://tv.naver.com/">TV</a></li>
+				</ul>
+				<ul class="menu2 inline">
+					<li><a href="https://dict.naver.com/">사전</a></li>
+					<li><a href="https://news.naver.com/">뉴스</a></li>
+					<li><a href="https://finance.naver.com/">증권</a></li>
+					<li><a href="https://land.naver.com/">부동산</a></li>
+					<li><a href="https://map.naver.com/v5/?c=14184792.4946411,4345210.3720442,15,0,0,0,dh">지도</a></li>
+					<li><a href="https://movie.naver.com/">영화</a></li>
+					<li><a href="https://music.naver.com/">뮤직</a></li>
+					<li><a href="https://book.naver.com/">책</a></li>
+					<li><a href="https://comic.naver.com/index.nhn">웹툰</a></li>
+					
+				</ul>
+				<span>더보기</span>
+			
+			</div>
+			
+			
+		</div> <!-- 헤더 끝 -->
+		<div class="contents">
+			
+				<div class="ad_img"></div>
+			
+				<div class="news"></div>
+				<div class="animal"></div>
+				
+				<div class="aside">
+					<div class="login"></div>
+					<div class="hotissue"></div>
+					<div class="aside img"></div>
+					<div class="shopping"></div>
+				</div>
+				
+		</div><!-- contents 끝 -->
+		
+		<!-- footer 끝 -->
+		<div class="footer">
+		
+		</div>
+			
+				
+			
+	</body>
+</html>
