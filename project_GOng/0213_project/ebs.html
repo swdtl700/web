@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	<style>
+		span#text{ 
+			color : violet;
+			font-size : 1px; }
+	
+	</style>
+	</head>
+	<body>
+		<form action="ebsResult.jsp" method="get">
+		<table border="1">
+			<tr>
+				<td colspan="2"><h3>정보입력 및 본인확인</h3></td>
+			</tr>
+			<tr>
+				<td>아이디 </td>
+				<td><input type="text" name="id" class="id">
+				<button onclick="confirm('사용할 수 있는 아이디 입니다');">중복확인</button><br></td>
+			</tr>
+			<tr>
+				<td><label for="pw">비밀번호</label></td>
+				<td><input type="password" name="pw" class="pw"><br></td>
+			</tr>
+			<tr>	
+				<td><label for="pw_re">비밀번호 확인</label></td>
+				<td><input type="password" name="pw_re" class="pw"><br></td>
+			</tr>
+			<tr>	
+				<td><label for="_name">이름</label></td>
+				<td><input type="text" name="_name" class="_name"><br></td>
+			</tr>
+			<tr>
+				<td>성별</td><td><input type="radio" name="gender" value="남자" cheked="cheked">남성
+					<input type="radio" name="gender" value="여자">여성
+				
+					<input type="checkbox"	name="agree" value="동의">선택정보(성별)수집 및 이용 동의<br></td>
+			</tr>
+			<tr>
+				<td>생년월일</td>
+				<td>
+					<select name="year" id="year" class="year">
+						<option value="1990">1990</option>
+						<option value="1991">1991</option>
+						<option value="1992">1992</option>
+						<option value="1993">1993</option>
+						<option value="1994">1994</option>
+						<option value="1995">1995</option>
+						<option value="1996">1996</option>
+						<option value="1997">1997</option>
+						<option value="1998">1998</option>
+						<option value="1999">1999</option>
+						<option value="2000">2000</option>
+						<option value="2001">2001</option>
+						<option value="2002">2002</option>
+						<option value="2003">2003</option>
+						<option value="2004">2004</option>
+						<option value="2005">2005</option>
+						<option value="2006">2006</option>
+						<option value="2007">2007</option>
+						<option value="2008">2008</option>
+						<option value="2009">2009</option>
+						<option value="2010">2010</option>
+					</select>
+					년
+					<select name="month" id="month" class="month">
+						<option value="1월">01월</option>
+						<option value="2월">02월</option>
+						<option value="3월">03월</option>
+						<option value="4월">04월</option>
+						<option value="5월">05월</option>
+						<option value="6월">06월</option>
+						<option value="7월">07월</option>
+						<option value="8월">08월</option>
+						<option value="9월">09월</option>
+						<option value="10월">10월</option>
+						<option value="11월">11월</option>
+						<option value="12월">12월</option>
+					</select>
+					월
+					<select name="day" id="day" class="day">
+						<option value="1일">01</option>
+						<option value="2일">02</option>
+						<option value="3일">03</option>
+						<option value="4일">04</option>
+						<option value="5일">05</option>
+						<option value="6일">06</option>
+						<option value="7일">07</option>
+						<option value="8일">08</option>
+						<option value="9일">09</option>
+						<option value="10일">10</option>
+						<option value="11일">11</option>
+						<option value="12일">12</option>
+						<option value="13일">13</option>
+						<option value="14일">14</option>
+						<option value="15일">15</option>
+						<option value="16일">16</option>
+						<option value="17일">17</option>
+						<option value="18일">18</option>
+						<option value="19일">19</option>
+						<option value="20일">20</option>
+						<option value="21일">21</option>
+						<option value="22일">22</option>
+						<option value="23일">23</option>
+						<option value="24일">24</option>
+						<option value="25일">25</option>
+						<option value="26일">26</option>
+						<option value="27일">27</option>
+						<option value="28일">28</option>
+						<option value="29일">29</option>
+						<option value="30일">30</option>
+						<option value="31일">31</option>
+					</select>	
+					일
+				</td>
+			</tr>
+			<tr>	
+				<td>이메일</td>
+				<td><input type="text" name="mail1">@
+					<input type="text" name="mail2" ><br>
+					<span id = "text">아이디나 비밀번호를 찾기위해 사용되오니 정확한 정보로 입력하시기 바랍니다.</span><br></td>
+			</tr>
+			<tr>
+				<td>휴대폰</td><td><input type="tel" name="tel" ><br>
+					<span id ="text">아이디나 비밀번호를 찾기위해 사용되오니 정확한 정보로 입력하시기 바랍니다.</span><br></td>
+			</tr>
+			<tr>
+				<td>인증방법</td>
+				<td><input type="radio" name="chk" value="휴대폰" checked="checked">휴대폰
+					<input type="radio" name="chk" value="이메일">이메일
+					<button onclick="confirm('chkNum');">인증</button><br>
+				<span id ="text">휴대폰 인증을 위한 인증번호 발송은 1일 최대 3회까지 가능합니다.</span></td>
+			</tr>
+			<tr>
+				<td>인증번호</td>
+				<td><input type="text" name="chkNum" value="인증번호">
+					<button onclick="confirm('확인되었습니다.');">확인</button><br></td>
+			</tr>
+			</table>
+			※교사 회원님을 위한 교사인증은 가입 후 회원정수정에서 인증하실 수 있습니다.<br><br><br>
+			<input type ="submit" value="확인">
+		</form>
+	
+	</body>
+</html>

@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="referrer" content="always">
+<meta property="qc:admins" content="1043262023664165646" />
+<!-- <meta name="baidu-site-verification" content="mt3fIXiAr9"/> -->
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<meta property="og:title" content="[V LIVE] KIM WOO SEOK X LieV - 김우석의 눕방라이브!"/>
+<meta property="og:url" content="https://www.vlive.tv/video/174236"/>
+<meta property="og:image" content="https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=a720_play"/>
+<meta property="og:image:secure_url" content="https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=a720_play"/>
+<meta property="og:image:width" content="720"/>
+<meta property="og:image:height" content="405"/>
+<meta property="og:description" content="V LIVE에서 영상을 시청해 보세요!"/>
+<meta property="og:type" content="article"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="[V LIVE] KIM WOO SEOK X LieV - 김우석의 눕방라이브!">
+<meta name="twitter:url" content="https://www.vlive.tv/video/174236">
+<meta name="twitter:description" content="V LIVE에서 영상을 시청해 보세요!">
+<meta name="twitter:image" content="https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=a720_play">
+<meta name="weibo:type" content="webpage" />
+<meta name="weibo:webpage:url" content="https://www.vlive.tv/video/174236" />
+<meta name="weibo:webpage:title" content="[V LIVE] KIM WOO SEOK X LieV - 김우석의 눕방라이브!" />
+<meta name="weibo:webpage:description" content="V LIVE에서 영상을 시청해 보세요!" />
+<meta name="weibo:webpage:image" content="https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=a720_play" />
+<meta name="description" content="2020.02.12. - [V COOKIE] - KIM WOO SEOK X LieV - 김우석의 눕방라이브! - V LIVE에서 비디오를 시청할 수 있습니다">
+<title>V LIVE - KIM WOO SEOK X LieV - 김우석의 눕방라이브!</title>
+<link rel="dns-prefetch" href="//v-phinf.pstatic.net">
+<link rel="dns-prefetch" href="//ssl.pstatic.net">
+<link rel="dns-prefetch" href="//vlive-static.pstatic.net">
+<link rel="dns-prefetch" href="//sstatic-g.rmcnmv.naver.net">
+<link rel="dns-prefetch" href="//nelo2-col.navercorp.com">
+<link rel="dns-prefetch" href="//www.vlive.tv">
+<link rel="dns-prefetch" href="https://tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="https://cdn.ampproject.org">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="//cc.naver.com">
+		<link rel="dns-prefetch" href="//lcs.naver.com">
+	<link rel="preconnect" href="//v-phinf.pstatic.net">
+<link rel="preconnect" href="//ssl.pstatic.net">
+<link rel="preconnect" href="//vlive-static.pstatic.net">
+<link rel="preconnect" href="https://tpc.googlesyndication.com">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net">
+<link rel="alternate" href="https://www.vlive.tv/video/174236" hreflang="x-default" />
+<link rel="canonical" href="https://www.vlive.tv/video/174236"/>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2018042316" /><link type="text/css" rel="stylesheet" href="https://vlive-static.pstatic.net/desktop/resources/generated/css/2020020614/vlive.css"/>
+	</head>
+<body class="ko">
+<div id="wrap">
+	<div id="u_skip">
+		<a href="#gnb"><span class="blind">메인 메뉴로 바로가기</span></a>
+		<a href="#content"><span class="blind">본문으로 바로가기</span></a>
+	</div>
+	<div id="header">
+		<div class="gnb_top">
+	<h1>
+		<a class="btn_v" href="/home" onclick="ga('send', 'event', 'main', 'click_home');">
+			<span class="logo_v">실시간 방송 앱, V LIVE</span>
+		</a>
+	</h1>
+	
+	<div class="navigation">
+		<ul>
+			<li><a href="/home" class="" onclick="ga('send', 'event', 'main', 'click_home');"><span class="menu1">홈</span></a></li>
+			<li><a href="/upcoming" class="" onclick="ga('send', 'event', 'main', 'click_upcoming');"><span class="menu2">일정표</span></a></li>
+			<li><a href="/channels" class="" onclick="nclk(this,'gnb.channel','','',event);"><span class="menu3">채널</span></a></li>
+			<li><a href="/events" class="" onclick="nclk(this,'gnb.events','','',event);"><span class="menu4">이벤트</span></a></li>
+			<li><a href="/vstore" class="" onclick="ga('send', 'event', 'premium', 'visit_store');"><span class="menu5">스토어</span></a></li>
+			<li><a href="https://vtoday.vlive.tv"><span class="menu6">V TODAY</span></a></li>
+		</ul>
+	</div>
+	
+	<div class="gnb_info">
+		<input type="submit" id="btn_search1" class="btn_search" title="search" onclick="nclk(this,'gnb.search','','',event);">
+		<label for="btn_search1" class="blind">search</label>
+		<div class="search_area" id="search_area" style="display:none;">
+			<div class="box">
+				<form class="_searchForm" action="/search/all">
+					<input type="text" id="search_text" class="search_txt" name="query">
+					<input type="submit" id="btn_search2" class="btn_search">
+					<label for="btn_search2" class="blind">검색</label>
+				</form>
+			</div>
+			<div class="lyr search_word">
+				<div class="search_auto">
+					<ul class="result_list">
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="login_area">
+			<a href="#" class="btn_login" style="display:none;"
+			   onclick="ga('send', 'event', 'membership', 'login');vlive.tv.auth.handler.login(event);return false;">로그인</a>
+			<div class="nick_area _top_nick_area">
+				<a href="#" class="nick" style="display:none" onclick="nclk(this,'gnb.user','','',event);return false;"></a>
+				<div class="lyr" style="display:none;">
+					<div class="login_btn">
+						<div class="inner"><a href="/my/profile" class="txt">프로필 설정</a></div>
+						<div class="inner"><a href="/my" class="txt">마이페이지</a></div>
+						<div class="inner"><a href="/auth/logout" class="btn_logout" onclick="ga('send', 'event', 'membership', 'logout');vlive.tv.auth.handler.logout();"><span class="inner">로그아웃</span></a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="lang_area">
+			<strong class="blind">Choose language</strong>
+			<a href ="#" class="btn_lang" onclick="nclk(this,'gnb.korean','','',event);">한국어<span class="icon_arr"></span></a>
+				<div class="lyr" style="display:none">
+				<a href="#"  onclick="nclk(this,'gnb.langen','','',event);vlive.tv.common.changeLanguage('en');return false;">English</a>
+				<a href="#" class="on" onclick="nclk(this,'gnb.langkr','','',event);vlive.tv.common.changeLanguage('ko');return false;">한국어</a>
+				<a href="#"  onclick="nclk(this,'gnb.langzhHans','','',event);vlive.tv.common.changeLanguage('zh_cn');return false;">中文(简体)</a>
+				<a href="#"  onclick="vlive.tv.common.changeLanguage('zh_tw');return false;">中文(繁體)</a>
+				<a href="#"  onclick="nclk(this,'gnb.langvi','','',event);vlive.tv.common.changeLanguage('vi');return false;">Tiếng Việt</a>				
+				<a href="#"  onclick="vlive.tv.common.changeLanguage('th');return false;">ภาษาไทย</a>
+				<a href="#"  onclick="vlive.tv.common.changeLanguage('id');return false;">Bahasa Indonesia</a>
+				<a href="#"  onclick="vlive.tv.common.changeLanguage('es');return false;">Español</a>
+				<a href="#"  onclick="vlive.tv.common.changeLanguage('ja');return false;">日本語</a>
+			</div>
+		</div>	
+	</div>
+</div>
+<div id="loginDimmedArea" class="dimmed_bg" style="display:none;"></div>
+<div class="vlogin_lyr" style="display:none;" id="loginPopupArea">
+	<div class="lyr_tit">
+		<div class="tit_img"></div>
+		<div class="txt"><span class="blind">FOLLOW FAVES. LIKE&amp;SUPPORT. GET CLOSER.</span></div>
+		</div>
+	<div class="lyr_cont">
+		<div class="login_btn_wrap">
+			<a href="/auth/login?loginSvc=naver" class="login_btn naver" onclick="nclk(this,'log.naver','','',event);"><em>NAVER</em>로 계속하기</a>
+					<a href="/auth/login?loginSvc=facebook" class="login_btn fb" onclick="nclk(this,'log.facebook','','',event);"><em>Facebook</em>으로 계속하기</a>
+					<a href="/auth/login?loginSvc=google" class="login_btn google" onclick="nclk(this,'log.google','','',event);"><em>Google</em>로 계속하기</a>
+					<a href="/auth/login?loginSvc=line" class="login_btn line" onclick="nclk(this,'log.line','','',event);"><em>LINE</em>으로 계속하기</a>
+					<a href="/auth/login?loginSvc=twitter" class="login_btn twitter" onclick="nclk(this,'log.twitter','','',event);"><em>Twitter</em>로 계속하기</a>
+					<a href="/auth/login?loginSvc=weibo" class="login_btn weibo" onclick="nclk(this,'log.weibo','','',event);"><em>Weibo</em>로 계속하기</a>
+					<a href="/auth/login?loginSvc=tweibo" class="login_btn qq" onclick="nclk(this,'log.qq','','',event);"><em>QQ</em>로 계속하기</a>
+				</div>
+		<div class="text_wrap"><a href="/auth/email/login" class="text_area">로그인에 문제가 있으신가요?</a></div>
+	</div>
+	<a href="#" class="btn_close" title="닫기" onclick="nclk(this,'log.close','','',event);vlive.tv.auth.handler.loginCancel();return false;"><span class="blind">닫기</span></a>
+</div></div>
+	<div id="container">
+		<div id="content" >
+	<div class="spot_top" style="height:90px; background-image:url(https://v-phinf.pstatic.net/20200207_228/15810396511423msY1_JPEG/upload_V_PC_end_kor_23f9fcef.jpg?type=f1400_90);background-color:#FAFCEF">
+			<span class="thumb_border"></span>
+			<p class="blind">
+				KIM WOO SEOK X LieV - 김우석의 눕방라이브!</p>
+			</div>
+	<div class="vlive_section">
+		<h2 class="blind">[V LIVE] KIM WOO SEOK X LieV - 김우석의 눕방라이브!</h2>
+		<div class="cont_area">
+			<div class="vlive_top">
+				<div class="star_profile">
+					<div class="img_area">
+						<a href="/channels/EF0205"  data-code="EF0205"
+						   data-ga-seq="259" data-ga-name="V COOKIE" data-ga-type="BASIC" 
+						   onclick="vlive.tv.common.chGa(this);">
+							<span class="mask_small"></span>
+							<img src="https://v-phinf.pstatic.net/20170206_257/1486374600231CWbCv_PNG/upload_Cookie_channel_profile.png?type=round52_52" width="52" height="52" alt="V COOKIE" loading="lazy"/></a>
+					</div>
+					<div class="info_area">
+						<a href="/channels/EF0205" class="name "  data-code="EF0205"
+						   data-ga-seq="259" data-ga-name="V COOKIE" data-ga-type="BASIC"
+						   onclick="vlive.tv.common.chGa(this);">V COOKIE</a>
+						<span class="txt">팔로워</span>
+							<span class="txt">520,624</span>							
+						</div>
+					
+					<div class="btn_area">
+						<button class="btn_follow _EF0205" data-code="EF0205" data-name="V COOKIE" data-seq="259" data-type="BASIC">
+							<span class="ico_following"></span>팔로우</button>
+						<div class="follow_notice _EF0205" style="display: none;"><span class="txt">V COOKIE님을 팔로우했습니다.</span></div>
+					</div>
+					</div>
+				
+				<div class="vapp_bridge">
+					<a class="btn_vapp" onclick="nclk(this,'app.down','','',event);" href="#" title="V App Download"><span class="tit">DOWNLOAD V LIVE APP</span></a>
+					<div class="pop_lyr" style="display:none">
+						<div class="lyr_vapp_download">
+							<strong class="tit">DOWNLOAD V LIVE APP</strong>
+							<div class="app_qr">
+								<div class="img_qr">
+									<img src="https://vlive-static.pstatic.net/qrcode/qrcode.jpg?type=f58_58" alt="DOWNLOAD V LIVE APP" loading="lazy">
+										</div>
+								<div class="btn_area">
+									<a href="https://play.google.com/store/apps/details?id=com.naver.vapp" onclick="nclk(this,'app.android','','',event);" class="btn on" target="_blank"><span class="ico_android"></span> Android<span class="bu_arr"></span></a>
+										<a href="https://itunes.apple.com/app/id1019447011?mt=8" onclick="nclk(this,'app.ios','','',event);" class="btn on" target="_blank"><span class="ico_ios"></span> iOS<span class="bu_arr"></span></a>
+								</div>
+							</div>
+						</div>
+						<a href="#" onclick="nclk(this,'app.close','','',event);" class="btn_lyr_close _close_layer"><span class="btn_txt">닫기</span></a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="vlive_cont">
+				<div class="vlive_area">
+					<div class="player">
+						<div class="player_ly">
+							<div class="player_ly_cont" style="display:none;"></div><div class="player_ly_bg2"></div>
+						</div>
+						<div class="player_box" id="playerBoxArea">
+							<img src="https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=f886_499" class="_video_thumb" width="886" height="499" alt="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" style="display:none;" loading="lazy">
+							</div>						
+					</div>
+					<div class="vlive_info">
+						<strong class="tit" title="KIM WOO SEOK X LieV - 김우석의 눕방라이브!">KIM WOO SEOK X LieV - 김우석의 눕방라이브!</strong>
+						<div class="status_area" style="display:none;"></div><div class="btn_area"><a class="btn_share" href="#" onclick="nclk(this,'shr.share','','',event);
+								"
+							   data-ga-action="share_ea" data-ga-productid="" data-ga-productname="">
+								<span class="blind">공유</span>
+							</a>
+							<div class="pop_share" style="display: none;">
+								<div class="lyr_share">
+									<div class="share_info">
+										<div class="btn_share_area">
+											<a href="#" class="btn_facebook" id="facebook" title="facebook"
+		   data-ga-seq="174236" data-ga-name="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" data-ga-type="LIVE" data-ga-cname="V COOKIE"
+		   data-ga-cseq="259" data-ga-ctype="BASIC" data-ga-product="NONE"
+		   data-ga-action="share_video" data-ga-label="Facebook" onclick="vlive.tv.common.videoGa(this);"><span class="blind">facebook</span></a>
+
+		<a href="#" class="btn_twitter" id="twitter" title="twitter"
+		   data-ga-seq="174236" data-ga-name="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" data-ga-type="LIVE" data-ga-cname="V COOKIE"
+		   data-ga-cseq="259" data-ga-ctype="BASIC" data-ga-product="NONE"
+		   data-ga-action="share_video" data-ga-label="Twitter" onclick="vlive.tv.common.videoGa(this);"><span class="blind">twitter</span></a>
+
+		<a href="#" class="btn_blog" id="blog" title="blog"
+		   data-ga-seq="174236" data-ga-name="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" data-ga-type="LIVE" data-ga-cname="V COOKIE"
+		   data-ga-cseq="259" data-ga-ctype="BASIC" data-ga-product="NONE"
+		   data-ga-action="share_video" data-ga-label="Blog" onclick="vlive.tv.common.videoGa(this);"><span class="blind">blog</span></a>
+
+		<a href="#" class="btn_cafe" id="cafe" title="cafe"
+		   data-ga-seq="174236" data-ga-name="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" data-ga-type="LIVE" data-ga-cname="V COOKIE"
+		   data-ga-cseq="259" data-ga-ctype="BASIC" data-ga-product="NONE"
+		   data-ga-action="share_video" data-ga-label="Cafe" onclick="vlive.tv.common.videoGa(this);"><span class="blind">cafe</span></a>
+
+		<a href="#" class="btn_band" id="band" title="BAND"
+		   data-ga-seq="174236" data-ga-name="KIM WOO SEOK X LieV - 김우석의 눕방라이브!" data-ga-type="LIVE" data-ga-cname="V COOKIE"
+		   data-ga-cseq="259" data-ga-ctype="BASIC" data-ga-product="NONE"
+		   data-ga-action="share_video" data-ga-label="BAND" onclick="vlive.tv.common.videoGa(this);"><span class="blind">BAND</span></a>
+	</div>
+										<div class="copy_area">
+											<span class="copy_inner_btn">
+												<a href="#" id="urlCopyBtn" class="btn_copy">URL 복사</a>
+											</span>
+											<span class="copy_inner_url">
+												<input id="urlCopyArea" type="text" class="input_url" value="https://www.vlive.tv/video/174236">												
+											</span>
+										</div>
+									</div>
+									<div class="share_embed">
+										<table class="table_share">
+										<caption class="blind">embedded info &amp; url</caption>
+										<tbody>
+										<tr>
+											<th>
+												<strong class="title">크기</strong>
+											</th>
+											<td>
+												<div class="embed_size">
+													<div class="embed_select">
+														<a href="#none" id="embed_drlabel" class="btn_select" role="button" aria-haspopup="true" aria-expanded="false">
+															<strong class="txt_select">544px * 306px</strong>
+														</a>
+														<div class="select_layer" aria-labelledby="embed_drlabel" style="">
+															<ul class="select_list" role="tablist">
+															<li role="tab" class="is_active" aria-selected="true" data-width="544" data-height="306"><a href="#">544px * 306px</a></li>
+															<li role="tab" data-width="740" data-height="416"><a href="#">740px * 416px</a></li>
+															<li role="tab" data-width="936" data-height="526"><a href="#">936px * 526px</a></li>
+															<li role="tab" data-width="1280" data-height="720"><a href="#">1280px * 720px</a></li>
+															</ul>
+														</div>
+													</div>
+													<div class="autoplay_check checked">
+														<input type="checkbox" id="check_autoplay">
+														<div class="check_area">
+															<span class="icon_check"></span>
+															<label for="check_autoplay" class="input_txt">자동 재생</label>
+														</div>
+													</div>
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<th>
+												<strong class="title">코드</strong>
+											</th>
+											<td>
+												<div class="embed_code">
+													<div class="copy_area">
+														<span class="copy_inner_btn">
+															<a href="#" class="btn_copy" id="embedCodeCopyBtn">복사</a>
+														</span>
+														<span class="copy_inner_url">
+															<input type="text" class="input_url _embed_code" value="">
+														</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+										</tbody>
+										</table>
+									</div>
+									</div>
+								<a href="#" onclick="nclk(this,'shr.close','','',event);" class="btn_lyr_close _close_layer" title="Close"><span class="btn_txt">Close</span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="comment_area">
+					<div class="lazy_loading cbox_skeleton">
+	<em class="blind">Loading</em>
+	<div class="loading_top">
+		<div class="loading_box -head1"></div>
+		<div class="loading_box -head2"></div>
+	</div>
+	<div class="loading_content">
+		<div class="loading_box -chat1"></div>
+		<div class="loading_box -chat2"></div>
+		<div class="loading_box -chat3"></div>
+		<div class="loading_box -chat4"></div>
+		<div class="loading_box -chat5"></div>
+	</div>
+	<div class="loading_bottom">
+		<div class="loading_box -input"></div>
+	</div>
+</div><div id="cbox_module" class="u_cbox"></div></div>
+			</div>
+			
+			<div class="notice_box _video _after" style="display:none;" data-empty="true">
+				<div class="notice_area">
+					<h3 class="notice"><span class="blind">Notice</span></h3>
+					<div class="cnt_area _autolink_area">
+						<p class="txt"></p>
+					</div>
+					<a href="#" class="btn_notice"><span class="blind">Notice Close</span></a>
+				</div>
+			</div>			
+		</div>
+	</div>
+	<div class="ad_area -kr">
+		<div class="ad_content" id="div-ssp-26"></div>
+	</div>
+	<div class="cont_section"><div class="lazy_loading general_video_skeleton">
+	<em class="blind">Loading</em>
+	<div class="loading_wrap">
+		<div class="loading_box -title"></div>
+		<div class="loading_inner">
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+		</div>
+	</div>
+	<div class="loading_wrap">
+		<div class="loading_box -title"></div>
+		<div class="loading_inner">
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+			<div class="loading_item">
+				<div class="loading_box -thumb"></div>
+				<div class="loading_box -text1"></div>
+				<div class="loading_box -text2"></div>
+			</div>
+		</div>
+	</div>
+</div></div><div  id="flashPlayerCannotUseLayer" style="display:none;">
+		<div class="player_ly_info">
+			<div class="info_txt">
+				<strong class="txt9">
+					<span class="txt_point">동영상 재생이 불가능한 브라우저입니다.</span>
+					<br>재생 가능한 환경을 확인 후, 해당 브라우저에서 다시 시도해주세요.</strong>
+				<span class="txt12"><a href="https://help.naver.com/support/contents/contents.help?serviceNo=12240&categoryNo=22416" class="link_txt" target="_blank">도움말 보기</a></span>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="btn_top_area" style="display:none;">
+	<a href="#" class="ico_top" onclick="ga('send', 'event', 'main', 'top');">
+		<span class="blind">top</span>
+	</a>
+</div></div>
+	<div id="footer">
+		<div class="footer_banner">
+	<div class="btn_area">
+		<a href="https://play.google.com/store/apps/details?id=com.naver.vapp" class="btn_android" target="_blank" onclick="nclk(this,'fot.anddown','','',event);"><span class="blind">Android Download app</span></a>
+		<a href="https://itunes.apple.com/app/id1019447011?mt=8" class="btn_ios" target="_blank" onclick="nclk(this,'fot.iosdown','','',event);"><span class="blind">iOS Download app</span></a>
+	</div>
+</div>
+
+<div class="footer_info">
+	<div class="address">
+		<ul class="footer_link">
+			<li><a href="/about" onclick="nclk(this,'fot.aboutv','','',event);">About V LIVE</a></li>
+			<li><a href="/policies/terms" onclick="nclk(this,'fot.terms','','',event);">이용약관</a></li>
+			<li><a href="/policies/privacy" onclick="nclk(this,'fot.privacy','','',event);"><strong>개인정보처리방침</strong></a></li>
+			<li><a href="/policies/disclaimer" onclick="nclk(this,'fot.disclaimer','','',event);">책임의 한계와 법적고지</a></li>
+			<li><a href="/policies/refund" onclick="nclk(this,'fot.refund','','',event);">청약철회 및 환불에 관한 사항</a></li>
+		</ul>
+		<ul class="footer_link">
+			<li>
+				<a href="https://www.navercorp.com/ko/investment/finances">자본규모</a></li>
+			<li><a href="https://help.naver.com/support/alias/contents1/vlive_ko/vlive_ko_01.naver" target="_blank" onclick="nclk(this,'fot.help','','',event);">도움말</a></li>
+			<li><a href="#" onclick="nclk(this,'fot.partnership','','',event);vlive.tv.common.openPopup('/partners/join', 1300, 1024, 'partners');return false;">제휴제안</a></li>
+		</ul>
+		<div class="adress_info">
+			<div class="inner">
+				<span class="txt">사업자등록번호 : 220-81-62517</span>
+				<span class="txt">통신판매업신고번호 : 제2006-경기성남-0692호</span>
+				<span class="txt">네이버(주) 대표이사 한성숙</span>
+			</div>
+			<div class="inner">
+				<span class="txt">경기도 성남시 분당구 불정로 6 네이버 그린팩토리 463-867</span>
+				<span class="txt">대표전화 : 1588-3820</span>
+				<span class="txt">
+					이메일 주소 : <a href="mailto:naver_market@naver.com">naver_market@naver.com</a></span>
+				<span class="txt">결제수단 사용 플랫폼 : V LIVE App 및 www.vlive.tv</span>
+			</div>
+		</div>
+		<span class="copyright"><a href="https://www.navercorp.com" target="_blank" onclick="nclk(this,'fot.navercorp','','',event);">ⓒ NAVER Corp.</a> All rights reserved.</span>
+	</div>
+	<div class="social_link">
+		<a href="https://www.facebook.com/vliveofficial" target="_blank" class="btn_facebook" title="facebook" onclick="nclk(this,'fot.snsfacebook','','',event);"><span class="blind">facebook</span></a>
+		<a href="https://twitter.com/Vliveofficial" target="_blank" class="btn_twitter" title="twitter" onclick="nclk(this,'fot.snstwitter','','',event);"><span class="blind">twitter</span></a>
+	</div>
+	<div class="vlive_broadcast_menu" style="display:none;">
+		<a href="/broadcaster" class="vlive_broadcast_btn"><em class="blind">PRISM Live Studio</em></a>
+	</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/lib/2019112116/vlive.common.video.min.js"></script>
+	<script type="text/javascript">
+	var nsc = "v.all";
+	var lcs_SerName = "lcs.naver.com";
+	var ccsrv = "cc.naver.com";
+	var svr = "cpc028";
+	var gbLogin = false;
+	var gsLiveThumbUrl = "https://vlive-thumb.pstatic.net";
+	var gsDthumbUrl= "https://phinf.pstatic.net/dthumb";
+	var vServiceUrl = "https://www.vlive.tv";
+	var gsUserLanguage = "ko";
+	var gsUserCountry = "KR";
+	var gsPhase = "real";
+	var gsUseNelo = "";
+	var giPurchasePopupWidth = 507;
+	var giPurchasePopupHeight = 580;
+	var emailRegx = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+	var webp = false;
+</script><script type="text/javascript" charset="utf-8" src="https://sstatic-g.rmcnmv.naver.net/resources/js/naver_web_player_global_2024_min.js?2020021112"></script>
+		<script type="text/javascript" charset="utf-8" src="https://vlive-static.pstatic.net/desktop/swf/vLivePlayer.0.9.9.js"></script>
+		<script type="text/javascript" src="https://vlive-static.pstatic.net/desktop/resources/generated/js/page/2020020614/video.min.js"></script>
+	<script type="text/javascript">
+var vliveSspScriptUrl = "https://vlive-static.pstatic.net/web/public/2019123018/vlive.ssp.js";
+var sspSdkUrl = "https:\/\/ssl.pstatic.net\/tveta\/libs\/ssp\/ssp.web.sdk.js";
+var sspCssUrl = "https:\/\/ssl.pstatic.net\/tveta\/libs\/ssp\/ssp.web.sdk.css";
+var da = {
+	unitIds : {
+		bannerHome90 : "PC_WEB_HOME_1",
+		bannerHome250 : "PC_WEB_HOME_2",
+		bannerChannels : "PC_WEB_CHANNEL",
+		bannerVideo : "PC_WEB_VODEND",
+		preRoll : "PC_WEB_VIDEO_AD"
+	},
+	divIds : {
+		playerBox : "playerBoxArea", 
+		videoEnd : "div-ssp-26", 
+		homeNew1 : "div-ssp-28", 
+		homeNew2 : "div-ssp-29", 
+		channels : "div-ssp-30"
+	}
+};
+</script>
+<script type="text/javascript">
+	var targeting = { yob : "", gender : "", uct : "" };
+	var pageAdUnits = [];
+	
+	var bannerAdMediaParams = $.parseJSON("{   \"SvId\" : \"globalv\",   \"CpId\" : \"naver\",   \"ChannelId\" : \"259\",   \"ClipId\" : \"174236\",   \"contentKeywords\" : \"KIM WOO SEOK X LieV - 김우석의 눕방라이브!,V COOKIE\",   \"Country\" : \"KR\",   \"AreaId\" : \"clipend\" }");
+	var daAdUnit = {
+		unitId : da.unitIds.bannerVideo,
+		divId : da.divIds.videoEnd,
+		targeting : targeting,
+		extraOption : {mediaParams : bannerAdMediaParams}
+	};
+	pageAdUnits.push(daAdUnit);
+	</script>
+<script type="text/javascript">
+	var subtitleCode = "kor";
+	
+	var rmcRegion = "KR";
+	var rmcLocale = "ko_KR";
+	var rmcHost = "http://serviceapi.rmcnmv.naver.com";
+	var rmcPhase = "real";
+	var commentDomain = "https://ssl.pstatic.net/static.cbox";
+	var commentApiDomain = "https://global.apis.naver.com/commentBox/cbox4";
+	var neoidConsumerKey = "EvbbxIFhoa3Z2SkNwe0K";
+	var userLanguage = "ko";	
+	var userCountry = "KR";
+	var videoThumb = "https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=f886_499";
+	var deprecateInfoLink = "https://help.naver.com/support/contents/contents.help?serviceNo=12240&categoryNo=22416";
+	
+	var vLivePlayerPath = 'https://vlive-static.pstatic.net/desktop/swf\/VLivePlayer.2.9.5.swf';
+	var dashModuleUrl = "https://vlive-static.pstatic.net/desktop/swf/dash.mediaplayer.3.3.js";
+	var hlsModuleUrl = "https://vlive-static.pstatic.net/desktop/swf/hls.min.20190930.js";
+	
+	var playlistSeq = "";
+	var playlistType = "";
+	var sync = false;
+	var resumeCount = 0;
+
+	$(document).ready(function() {
+		vlive.tv.common.init("ko", "KR", "EF0205");
+		vlive.video.init("LIVE", "174236", "COMING_SOON", "NONE", "EF0205",
+			"",
+			"",
+			[],"", "true", "false");
+		vlive.tv.live.thumb.handler.init("https://vlive-thumb.pstatic.net");
+		vlive.tv.share.init("[V LIVE] KIM WOO SEOK X LieV - 김우석의 눕방라이브!", "https://www.vlive.tv/video/174236", "https://v-phinf.pstatic.net/20200207_233/15810396167768VvT1_JPEG/upload_720x535_VEC9785ECBBA4EBB08D.jpg?type=a720_play", "shareVod_EF0205_174236", "174236");
+		vlive.video.showShoppingBanner("174236");
+		
+		/*  */
+
+		
+	});
+
+	
+	function vodPlayerCallback(sType,arg1,arg2,arg3) {
+		if (sType === "connect") {
+			vlive.video.preview();
+		} else if (sType === "play") {
+			vlive.video.play("174236", "EF0205");
+			
+		} else if (sType === "complete") {
+			
+		}
+	}
+	function expandPlayer(isExpand) {
+		if (isExpand === "true") {
+			$(".comment_area").hide();
+			$(".vlive_top").hide();
+			$(".vlive_area").css("width", "1196px");
+			$(".vlive_cont").css("height", "755px").css("margin-top", "10px")
+			$(".vlive_area .player .player_box").css("width", "1196px").css("height", "673px");
+		} else {
+			$(".comment_area").show();
+			$(".vlive_top").show();
+			$(".vlive_area").css("width","882px");
+			$(".vlive_cont").css("height","578px").css("margin-top","");
+			$(".vlive_area .player .player_box").css("width","882px").css("height","496px");
+		}
+	}
+	function onLiveInit() {
+		var viewType = vlive.tv.common.getQueryString("viewType");
+		vlive.video.join("174236", "EF0205", viewType == "wait" ? viewType : "normal", null);
+		vlive.tv.common.removeQueryString("viewType");
+		vlive.video.playLive();
+	}
+	function onLiveResume() {
+		vlive.video.join("174236", "EF0205", "resume", ++resumeCount);
+	}
+
+	function onLiveStop() {
+		vlive.video.leave("174236");
+	}
+	function changeULLOnOff(useDash) {
+		if (typeof vlive.video.oLivePlayer !== "undefined") {
+			vlive.video.oLivePlayer.changeULLOnOff(useDash);
+			vlive.tv.common.ga("video", "changeULLOnOff", useDash);
+		}
+	}
+	function changeResolution(resolution) {
+		vlive.video.setLiveDefaultResolution(resolution);
+		vlive.tv.common.ga("video", "changeResolution", resolution);
+	}
+	function changeULLOption_isULLAlways(always) {
+		vlive.video.setULLAlways(always);
+		vlive.tv.common.ga("video", "changeULLOption_isULLAlways", always);
+	}
+
+	var prohibitedWordLike = '';
+	var prohibitedWordExact = '';
+	var message = {
+			commentTitle : "채팅",
+			reportComment : "부적절한 댓글 또는 스팸으로 신고하시겠습니까?",
+			addComment : "등록",
+			addCommentMsg : "대화를 나눠 보세요",
+			timeSecAgo : "{0}초 전",
+			timeJustAgo : "방금 전",
+			viewPrev : "이전 채팅 더보기",
+			liveChat : "실시간 채팅",
+			recentComment : "최신 채팅",
+			startLive : "라이브가 시작되었습니다. 지금 시청하시겠습니까?",
+			later : "아니요",
+			watch : "지금 보기",
+			make_fan_subtitle_alert : "본 영상의 팬 자막 만들기가\u003Cbr\u003E준비 중입니다.\u003Cbr\u003E잠시 후에 다시 확인해 주세요.",
+			make_fan_subtitle_alert_2 : "본 영상의 팬 자막 만들기가\u003Cbr\u003E준비 중입니다.\u003Cbr\u003E다른 영상의 팬 자막을 만드시겠습니까?",
+			chpsComment : "FANSHIP구독 후 채팅이 가능합니다.",
+			needChps : "FANSHIP 구독이 필요한 채널입니다. 멤버십 구독 후 FANSHIP만의 다양한 혜택을 즐겨 보세요.",
+			goChps : "멤버십 보기",
+			
+				commentStoreUrl : "/vstore/sticker",
+				stickerPlusAlert : "스토어에서 더 다양한 스티커를 만나보세요. 지금 이동하시겠습니까?",
+			
+			liveLimit : "동시에 시청중인 기기가 5대를 초과하여 댓글 입력이 불가능합니다.",
+			vodLimit :"시청 가능한 기기 대수를 초과하여 댓글 입력이 불가능합니다.",
+			
+			paidStickerAlert : "유료 스티커입니다.\u003Cbr\u003E스토어로 이동하시겠습니까?",
+			commentBlock : "게시할 수 없는 댓글입니다.",
+			previewing : "미리보기 중입니다.",
+			playChatBuyLong: "영상을 구매하시면 채팅 가능합니다."
+	};
+	var gaInfo = {
+		gaSeq : "174236",
+		gaName : "KIM WOO SEOK X LieV - 김우석의 눕방라이브!",
+		gaCname : "V COOKIE",
+		gaCseq : "259"
+	};</script>
+<script type="text/javascript">
+var commonMessage = {
+		ok : "확인",
+		cancel : "취소",
+		close : "닫기",
+		yes : "네",
+		no : "아니요",		
+		unfollow : "{0}님의 팔로우를 취소하시겠습니까?",
+		qq : "恭喜您，已完成登录！欢迎您使用",
+		closeQQ : "确定",
+		urlCopied : "URL이 복사되었습니다.\u003Cbr\u003E원하는 곳에 붙여넣기(Ctrl+v)하세요.",
+		codeCopied : "HTML 소스가 복사되었습니다.\u003Cbr\u003E붙여넣기 할 곳으로 이동하여 (Ctrl +v) 하세요.",
+		follow : "팔로우",
+		following : "팔로잉",
+		live : "라이브",
+		buy_age_restrict : "현재 만{0} 세 이상인 경우에만 [계속] 버튼을 눌러 결제를 진행할 수 있습니다.",
+		buy_age_restrict_cancel : "영상 시청이 제한되어 결제를 진행할 수 없습니다.",
+		buy_age_restrict_popup : "계속",
+		temporary_error_2 : "일시적인 오류가 발생했습니다.",
+		retry_later : "잠시 후에 다시 시도해 주세요."
+};
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+lcs_do();
+</script>
+<div class="ly_evt _gift_coin" style="display:none;">
+	<div class="lyr_cont">
+		<div class="ly_cont_area">
+			<h2 class="tit">이벤트 보너스 코인</h2>
+			<strong class="sub_tit">코인 선물이 왔습니다.</strong>
+			<div class="event_coin">
+				<span class="icon_coin"><span class="blind">V Coin</span></span>
+				<span class="txt _amount"></span>
+			</div>			
+			<div class="txt_area">
+				<p class="txt">PC에서 받은 이벤트 코인은 PC와 Android에서만 사용가능합니다.</p>
+				<p class="txt2">
+					만약 코인을 iOS에서 사용하길 원하신다면 iOS앱에서 이벤트코인을 받아주세요.<br>
+					<span class="_expireDateWrap" style="display:none;">코인 수락 만료일 :&nbsp;<span class="_expireDate"></span></span>
+				</p>
+			</div>
+		</div>
+		<div class="btn_area">
+			<a href="#" class="btn _gift_coin_cancel">나중에 받기</a>
+			<a href="#" class="btn on _gift_coin_ok">PC 코인 받기</a>
+		</div>
+	</div>
+	<a href="#" class="btn_close" title="close"><span class="inner">닫기</span></a>
+</div>
+<div class="pop_lyr _accept_gift_coin _success_confirm" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt" data-success="{0} 코인이 지급되었습니다."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_accept_gift">닫기</a></span>
+			<span class="btn"><a href="/my/coin" class="btn_txt ok _go_my">확인하러 가기</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _accept_gift_coin _success" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt" data-success="{0} 코인이 지급되었습니다."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_accept_gift">확인</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _accept_gift_coin _error" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt" data-expire="선물받기 유효기간이 만료되어 코인을 받으실 수 없습니다." data-error="일시적인 오류가 발생했습니다.<br>잠시 후에 다시 시도해 주세요."></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_accept_gift">확인</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _email_sent" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<h4 class="txt">이메일 발송 완료</h4>
+			<p class="txt point _email_addr"></p>
+			<p class="txt">24시간 이내 이메일을 확인해주세요.<br>[확인]을 누르면 로그인화면으로 이동합니다.</p>
+			<p class="txt">이메일을 못받은 경우 V LIVE 계정에서 인증하신 이메일 주소인지 확인해주세요.</p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok" onclick="vlive.tv.auth.handler.login();return false;">확인</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _email_authentication" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<h4 class="txt">이메일 인증하기</h4>
+			<p class="txt">상품 구매 시 최초 1회 이메일 인증이 필요합니다. 이메일을 인증하면 현재 사용 중인 계정을 분실하더라도 등록된 이메일 정보로 V LIVE 진입이 가능합니다.</p>
+			<p class="txt point _waiting" style="display: block;"><strong>이메일 입력 후 인증을 하지 않은 경우 입력하신 개인 메일에서 인증을 완료해주세요.</strong></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_layer _click_email_auth_status">건너뛰기</a></span>
+			<span class="btn"><a href="#" class="btn_txt small ok  _close_layer _click_email_auth_status _verify">이메일 인증</a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _common_layer_alert" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt"></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_layer"></a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _common_layer_alert_sub" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt"></p>
+			<em class="sub_info"></em>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt ok _close_layer"></a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _common_layer_confirm" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt"></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _left"></a></span>
+			<span class="btn"><a href="#" class="btn_txt ok _right"></a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _common_layer_confirm_sub" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<p class="txt"></p>
+			<em class="sub_info"></em>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _left"></a></span>
+			<span class="btn"><a href="#" class="btn_txt ok _right"></a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr _common_layer_title_confirm" style="display:none;">
+	<div class="lyr_cont1">
+		<div class="txt_area">
+			<h4 class="tit"></h4>
+			<p class="txt"></p>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _left"></a></span>
+			<span class="btn"><a href="#" class="btn_txt ok _right"></a></span>
+		</div>
+	</div>
+</div>
+<div class="pop_lyr" id="privacyAgreePopup" style="display:none;">
+	<div class="lyr_cont1 _agree_lyr _account _email _password" style="display:none;">
+		<div class="txt_area">
+			<h4 class="tit">개인 정보 수집 동의</h4>
+			<p class="txt">아래에서 [동의]를 선택하면 V LIVE 개인 정보 수집에 동의하게 됩니다.</p>
+			<div class="agreement_content">
+				<div class="vlive_law_common">
+					<div class="vlive_law_content">
+						<div class="vlive_law_content">		
+							<strong class="law_tit">1. 수집하는 개인정보 항목</strong>
+									<p class="law_txt">- 이메일, 비밀번호 (이메일 로그인 기능을 사용하는 경우)</p>
+							
+									<strong class="law_tit">2. 개인정보의 수집 및 이용목적</strong>
+									<p class="law_txt">- 회원제 서비스 이용에 따른 본인 확인 및 회원 식별 (이메일 주소 로그인 사용)</p>
+									
+									<strong class="law_tit">3. 개인정보의 보유 및 이용 기간</strong>
+									<p class="law_txt">- 회원 탈퇴 시까지</p>
+								</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="common_btn_area">
+			<span class="btn"><a href="#" class="btn_txt _close_layer">동의 안함</a></span>
+			<span class="btn">
+				<a href="#" class="btn_txt ok _agree_btn _account" onclick="vlive.tv.auth.handler._privacyAgree('account');return false;" style="display:none;">동의함</a>
+				<a href="#" class="btn_txt ok _agree_btn _email" onclick="vlive.tv.auth.handler._privacyAgree('email');return false;" style="display:none;">동의함</a>
+				<a href="#" class="btn_txt ok _agree_btn _password" onclick="vlive.tv.auth.handler._privacyAgree('password');return false;" style="display:none;">동의함</a>
+			</span>
+		</div>
+	</div>
+</div>
+</body>
+</html>

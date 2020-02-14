@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>webshopping</title>
+		<style>
+			header{width:100%; height:100px; background-color:#7facf5;}
+			header h1 a{color:black; text-decoration: none;}
+ 			header h1 a:hover {text-decoration: underline;}
+			header h1 img{width:100px; vertical-align:middle;}
+			/* 부모자식관계 한깐 띄어서 */
+			
+			nav{width:100%; height:60px; background-color:#ffffff; 
+				border-top:3px dotted olive; border-bottom:1px solid olive; padding:15px 0;}
+			nav{text-align:center;}
+			nav ul{list-style:none; padding:0; margin:0;}
+			nav ul li{display:inline-block; margin:5px 30px;}
+			nav ul li a{padding:10px; font-weight:bold; font-size:16pt; text-decoration:none;
+						letter-spacing:0.5em;}
+			nav ul li a:hover{color:pink; backgrozund-color:blue;}
+			
+			aside#left{width:15%; height:500px; background-color:#a8edbf; float:left; 
+						/* padding:20px 0; - 전체사이즈가 늘어나기때문에 주의!*/}
+			aside#left h2{color:white; padding-left:20px;}
+			aside#left ul{background-color:#ebe9b5; list-style:none; padding:0;}
+			aside#left ul li{border-bottom:1px solid rgba(0,0,0,0.3);}
+			aside#left ul li a{text-decoration:none; color:white; font-weight:bold; padding:10px 20px; display:block;}
+			aside#left ul li a:hover{background-color:rgba(0,0,0,0.3); color:#c0edbb;}	/* color:#c0edbb; */		
+			aside#left ul li a:visited{color:#cfaded;}
+			
+			section{width:70%; height:500px; background-color:#a7aceb; float:left;}
+			article{height:98%;}
+			section iframe{width:100%; height:100%; overflow:hidden;}
+			
+			
+			section h2 {display:none;}
+			
+			
+			aside#right{width:15%; height:500px; float:left; background-color:#edadc3;}
+			div#cart{height:40%; margin:20px;}
+			div#loginBox{height:60%; margin:20px;}
+			#loginBox{margin:10px;}
+			div#_id{}
+			div#password{}
+			#loginBox span{width:70px; text-align:center;}
+			input{height:20px; width:130px;}
+			
+			footer{width:100%; height:50px; clear:both; background-color:#edb4ad;}
+			footer p{text-align:center;}
+			/* clear:both; 안쓰면 뒤로 숨음 */
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>
+				<img src="../img/shopping.jpg" alt="로고이미지">
+				<a href="">web Shopping</a>
+			</h1>
+		</header>
+		
+		<nav>
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">ABOUT US</a></li>
+				<li><a href="#">NEWS</a></li>
+				<li><a href="#">MY ACCOUNT</a></li>
+				<li><a href="#">CONTACTS</a></li>
+			</ul>
+		
+		</nav>
+		<aside id="left">
+			<h2>카테고리</h2>
+			<ul>
+				<li><a href="컴퓨터.html" target="ifr">컴퓨터</a></li>
+				<li><a href="의류.html" target="ifr">의류</a></li>
+				<li><a href="#">음악</a></li>
+				<li><a href="#">열화</a></li>
+				<li><a href="#">스포츠/레저</a></li>
+				<li><a href="#">가구/인테리어</a></li>
+				<li><a href="#">식품</a></li>
+			</ul>
+		</aside>
+		<section>
+			<article>
+				<h2>상세보기</h2>
+				<iframe src="" name="ifr"></iframe>
+			</article>
+		</section>
+		
+		
+		<aside id="right">
+		
+		
+			<div id="cart">
+				<h2>Shopping Cart</h2>
+				<p>현재 쇼핑카트에 물품이 없습니다</p>
+				<a href="쇼핑카트.html">쇼핑카트 보기</a>
+			</div>
+			<div id="loginBox">
+				<h2>Log In</h2>
+				<span>아이디</span><input type="text" name="id" id="_id"><br>
+				<span>패스워드</span><input type="text" name="password" id="passpword"><br>
+				<br>
+				<button><a href="">아이디</a></button>
+				<button><a href="">초기화</a></button>
+				<br>
+				<a href="ebs.html" target="ifr"	>회원가입</a>
+				<a href="">비민번호 분실</a>
+			</div>
+		</aside>
+		<footer>
+			<p>Copyright (c)2020 LEEJEGYEONG</p>
+		
+		
+		</footer>
+	</body>
+</html>
+
+
+
+
